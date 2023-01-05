@@ -1,4 +1,4 @@
-##link: https://practice.geeksforgeeks.org/problems/kth-boom-number5609/1?page=1&difficulty[]=0&category[]=Strings&category[]=Sorting&sortBy=difficulty
+## link: https://practice.geeksforgeeks.org/problems/kth-boom-number5609/1?page=1&difficulty[]=0&category[]=Strings&category[]=Sorting&sortBy=difficulty
 
 MySolution: class Solution {
     public static String BoomNumber(long K) {
